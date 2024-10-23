@@ -12,11 +12,11 @@ ex3_10_2_v1 = exercise_3_10_v1("IV")
 ex3_10_3_v1 = exercise_3_10_v1("IX")
 ex3_10_4_v1 = exercise_3_10_v1("LVIII")
 ex3_10_5_v1 = exercise_3_10_v1("MCMXCIV")
-ex3_10_1_v2 = exercise_3_10_v1("III")
-ex3_10_2_v2 = exercise_3_10_v1("IV")
-ex3_10_3_v2 = exercise_3_10_v1("IX")
-ex3_10_4_v2 = exercise_3_10_v1("LVIII")
-ex3_10_5_v2 = exercise_3_10_v1("MCMXCIV")
+ex3_10_1_v2 = exercise_3_10_v2("III")
+ex3_10_2_v2 = exercise_3_10_v2("IV")
+ex3_10_3_v2 = exercise_3_10_v2("IX")
+ex3_10_4_v2 = exercise_3_10_v2("LVIII")
+ex3_10_5_v2 = exercise_3_10_v2("MCMXCIV")
 
 
 assert ex3_3 == [1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29], "Wrong set of numbers!"
