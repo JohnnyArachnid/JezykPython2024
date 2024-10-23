@@ -8,7 +8,7 @@ while True:
         else:
             x = float(x)
             print("Podana wartość x: {:.3f}".format(x))
-            print("Trzecia potęga podanej wartości x: {:.3f}".format(x, 3))
+            print("Trzecia potęga podanej wartości x: {:.3f}".format(pow(x, 3)))
     except ValueError as e:
         print("Podano zły format danych, komunikat o błędzie: {}".format(e))
     except Exception as e:
